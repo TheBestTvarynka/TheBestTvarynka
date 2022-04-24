@@ -20,9 +20,10 @@ I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukrai
 ### ⚡ Technologies
 
 ![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust)
-![Linux](https://img.shields.io/badge/-Linux-0f175e?style=flat-square&logo=Linux)
+![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
