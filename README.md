@@ -35,5 +35,10 @@ I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukrai
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
+### 🧸 Fun
+
+[![Lichess](https://img.shields.io/badge/-Lichess-black?style=flat-square&logo=lichess)](https://lichess.org/@/TheBestTvarynka)
+[![stack**overflow**](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9123725/pavlo-myroniuk)
+
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestTvarynka&hide=TeX&layout=compact) --->
 
