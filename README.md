@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@TheBestTvarynka-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/TheBestTvarynka/)](https://t.me/TheBestTvarynka)
 [![Linkedin Badge](https://img.shields.io/badge/-thebesttvarynka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebesttvarynka/)](https://www.linkedin.com/in/thebesttvarynka/)
 [![Instagram Badge](https://img.shields.io/badge/-thebesttvarynka-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thebesttvarynka/)](https://instagram.com/thebesttvarynka)
-[![Gmail Badge](https://img.shields.io/badge/-pspos.developqkation@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pspos.developqkation@gmail.com)](mailto:pspos.developqkation@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-the.best.tvarynka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:the.best.tvarynka@gmail.com)](mailto:the.best.tvarynka@gmail.com)
 [![GitLab Badge](https://img.shields.io/badge/-TheBestTvarynka-63460b?style=flat-square&logo=Gitlab&link=https://gitlab.com/TheBestTvarynka)](https://gitlab.com/TheBestTvarynka)
 
 ### 🙈 About me
