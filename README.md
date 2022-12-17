@@ -40,5 +40,23 @@ I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukrai
 [![Lichess](https://img.shields.io/badge/-Lichess-black?style=flat-square&logo=lichess)](https://lichess.org/@/TheBestTvarynka)
 [![stack**overflow**](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9123725/pavlo-myroniuk)
 
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBestTvarynka&hide=TeX&layout=compact) --->
+### Beta description
 
+```toml
+[package]
+name = "pavlo-myroniuk"
+description = "A software developer from Ukraine"
+authors = ["Father", "Mother]
+version = "21.8"
+edition = "2001"
+licence = ""
+
+[dependencies]
+rust = { git = "https://github.com/rust-lang/rust.git" }
+workout = { version = "1.0.1", features = ["calisthenics"] }
+fun = { version = "0.2.6", features = ["chess", "reading"] }
+
+[dev-dependencies]
+sleep = "0.8.0"
+food = "0.3.4"
+```
