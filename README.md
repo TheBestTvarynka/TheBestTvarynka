@@ -46,7 +46,7 @@ I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukrai
 [package]
 name = "pavlo-myroniuk"
 description = "A software developer from Ukraine"
-authors = ["Father", "Mother]
+authors = ["Father", "Mother"]
 version = "21.8"
 edition = "2001"
 licence = ""
