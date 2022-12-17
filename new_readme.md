@@ -16,20 +16,22 @@ cloud = { version = "0.2.0", features = ["GCP"] }
 version-control = { version = "0.2.0", features = ["git", "github", "gitlab"] }
 dev-ops = { version = "0.2.0", features = ["Docker", "K8s"] }
 
-# other
-fun = { version = "0.2.6", features = ["chess", "reading"] }
-
-# personal info
+# other info
 languages = { version = "0.2.0", features = ["EN", "UA"] }
 
 [dependencies.contacts]
 version = "0.2.0"
 mail = "the.best.tvarynka@gmail.com"
 telegram = "@TheBestTvarynka"
-linkein = "https://www.linkedin.com/in/thebesttvarynka"
+linkedin = "https://www.linkedin.com/in/thebesttvarynka"
 github = "@TheBestTvarynka"
 gitlab = "@TheBestTvarynka"
 instagram = "@thebesttvarynka"
+
+[dependencies.fun]
+version = "0.2.0"
+chess = "https://lichess.org/@/TheBestTvarynka"
+workout = "calisthenics"
 
 [dev-dependencies]
 sleep = "0.8.0"
