@@ -1,4 +1,4 @@
-
+```
 [package]
 name = "pavlo-myroniuk"
 description = "A software developer from Ukraine"
@@ -16,3 +16,4 @@ fun = { version = "0.2.6", features = ["chess", "reading"] }
 [dev-dependencies]
 sleep = "0.8.0"
 food = "0.3.4"
+```
