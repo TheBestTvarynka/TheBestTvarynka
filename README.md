@@ -39,3 +39,4 @@ I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukrai
 
 [![Lichess](https://img.shields.io/badge/-Lichess-black?style=flat-square&logo=lichess)](https://lichess.org/@/TheBestTvarynka)
 [![stack**overflow**](https://img.shields.io/badge/-Stackoverflow-black?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/9123725/pavlo-myroniuk)
+[![spotify](https://img.shields.io/badge/-Spotify-black?style=flat-square&logo=spotify)](https://open.spotify.com/user/xrebaxp1ppqe0byob8r94emqv)
