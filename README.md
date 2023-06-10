@@ -4,7 +4,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheBestTvarynka.TheBestTvarynka)
 
-[![Telegram Badge](https://img.shields.io/badge/-@TheBestTvarynka-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tbtpm)](https://t.me/tbtpm)
+[![Telegram Badge](https://img.shields.io/badge/-@tbtpm-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tbtpm)](https://t.me/tbtpm)
 [![Linkedin Badge](https://img.shields.io/badge/-thebesttvarynka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebesttvarynka/)](https://www.linkedin.com/in/thebesttvarynka/)
 [![Instagram Badge](https://img.shields.io/badge/-thebesttvarynka-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thebesttvarynka/)](https://instagram.com/thebesttvarynka)
 [![Gmail Badge](https://img.shields.io/badge/-the.best.tvarynka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:the.best.tvarynka@gmail.com)](mailto:the.best.tvarynka@gmail.com)
