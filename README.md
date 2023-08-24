@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheBestTvarynka.TheBestTvarynka)
+[![Pavlo Myroniuk profile views](https://u8views.com/api/v1/github/profiles/43034350/views/day-week-month-total-count.svg)](https://u8views.com/github/TheBestTvarynka)
 
 [![Telegram Badge](https://img.shields.io/badge/-@tbtpm-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tbtpm)](https://t.me/tbtpm)
 [![Linkedin Badge](https://img.shields.io/badge/-thebesttvarynka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebesttvarynka/)](https://www.linkedin.com/in/thebesttvarynka/)
