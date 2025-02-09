@@ -5,19 +5,20 @@
 [![Pavlo Myroniuk profile views](https://u8views.com/api/v1/github/profiles/43034350/views/day-week-month-total-count.svg)](https://u8views.com/github/TheBestTvarynka)
 
 [![Telegram Badge](https://img.shields.io/badge/-@tbtpm-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/tbtpm)](https://t.me/tbtpm)
-[![Linkedin Badge](https://img.shields.io/badge/-thebesttvarynka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebesttvarynka/)](https://www.linkedin.com/in/thebesttvarynka/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/thebesttvarynka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thebesttvarynka/)](https://www.linkedin.com/in/thebesttvarynka/)
 [![Instagram Badge](https://img.shields.io/badge/-thebesttvarynka-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thebesttvarynka/)](https://instagram.com/thebesttvarynka)
 [![Gmail Badge](https://img.shields.io/badge/-the.best.tvarynka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:the.best.tvarynka@gmail.com)](mailto:the.best.tvarynka@gmail.com)
-[![GitLab Badge](https://img.shields.io/badge/-TheBestTvarynka-63460b?style=flat-square&logo=Gitlab&link=https://gitlab.com/TheBestTvarynka)](https://gitlab.com/TheBestTvarynka)
+[![GitLab Badge](https://img.shields.io/badge/-TheBestTvarynka-d8b36a?style=flat-square&logo=Gitlab&link=https://gitlab.com/TheBestTvarynka)](https://gitlab.com/TheBestTvarynka)
+[![BlueSky Badge](https://img.shields.io/badge/-TheBestTvarynka-bec6f4?style=flat-square&logo=bluesky&link=https://bsky.app/profile/thebesttvarynka.bsky.social)](https://bsky.app/profile/thebesttvarynka.bsky.social)
 
 ### 🙈 About me
 
 I am Pavlo Myroniuk :man_technologist:, a software developer from Ukraine :ukraine:. Loves Rust :crab: and open-source software.
 
-* :computer: I force electrons to do the math :muscle:
-* :crab:  Let's rewrite all in Rust :pleading_face:
-* :green_heart: Workout is a very important part of my daily routine :running_man:
-* :notebook_with_decorative_cover: If you have any questions, notes, ideas, feel free to contact me 💬
+* :computer: [I force electrons to do the math](https://www.reddit.com/r/ProgrammerHumor/comments/jf95z8/the_best_ways_to_describe_the_job) :muscle:
+* :crab:  Let's rewrite it all in Rust :pleading_face:
+* :green_heart: Workout is a crucial part of my daily routine :running_man:
+* :notebook_with_decorative_cover: If you have any questions, notes, or ideas, feel free to contact me 💬
 
 ### ⚡ Technologies
 
